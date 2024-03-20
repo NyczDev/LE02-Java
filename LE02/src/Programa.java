@@ -79,21 +79,7 @@ public class Programa {
             case 15:
                 Exercicio15.executar();
                 break;
-            case 16:
-                Exercicio16.executar();
-                break;
-            case 17:
-                Exercicio17.executar();
-                break;
-            case 18:
-                Exercicio18.executar();
-                break;
-            case 19:
-                Exercicio19.executar();
-                break;
-            case 20:
-                Exercicio20.executar();
-                break;*/
+            */
             default:
                 System.out.println("Opção inválida!");
         }
