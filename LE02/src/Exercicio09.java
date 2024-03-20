@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class Exercicio09 {
-    public static void main(String[] args) {
+    public static void executar() {
         Scanner sc = new Scanner(System.in);
 
         System.out.println("Digite os elementos do vetor A:");
